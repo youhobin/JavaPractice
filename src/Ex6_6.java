@@ -22,6 +22,7 @@ class MyPoint {
 	MyPoint(int x, int y) {
 		this.x = x;
 		this.y = y;
+		
 	}
 	
 	double getDistance(int x1, int y1) {
